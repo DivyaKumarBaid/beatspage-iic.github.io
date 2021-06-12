@@ -1,11 +1,10 @@
 body {
-    width: 100%;
+    max-width: 100%;
     height: 100vh;
-    background: url(images/bg1.png);
+    background: url(images/bg.png);
     background-color: #1c1919;
-    
     background-repeat: none;
-    background-size:cover;
+    background-size: cover;
 }
 
 .nav-item a,
